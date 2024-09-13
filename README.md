@@ -8,10 +8,12 @@ To write a program to predict the price of the house and number of occupants in 
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
+```
 1.Start
 2.Data preparation
 3.Hypothesis Definition
 4.Cost Function 5.Parameter Update Rule 6.Iterative Training 7.Model evaluation 8.End
+```
 ## Program:
 ```
 /*
@@ -81,7 +83,6 @@ Predictions:
  [ 2.10914107 35.63894336]]
  ```
 ## Output:
-![multivariate linear regression model for predicting the price of the house and number of occupants in the house](sam.png)
 
 ![image](https://github.com/user-attachments/assets/b50c3df4-4983-4a72-9eda-4637b6d22e58)
 
